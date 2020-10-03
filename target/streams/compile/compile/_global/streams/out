@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Users\Slackerbot\Documents\Projects\tutorial-scalajs\src\main\scala\tutorial\webapp\TutorialApp.scala:19:14: not enough arguments for method setupUI: (args: Array[String]): Unit.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter args.[0m
+[0m[[0m[31merror[0m] [0m[0m      setupUI()[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

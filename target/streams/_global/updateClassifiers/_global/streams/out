@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/D:/Users/Slackerbot/Documents/Projects/tutorial-scalajs/"), "tutorial-scalajs")...
+[debug] Done updating ProjectRef(uri("file:/D:/Users/Slackerbot/Documents/Projects/tutorial-scalajs/"), "tutorial-scalajs")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

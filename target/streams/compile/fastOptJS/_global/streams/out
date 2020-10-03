@@ -1,0 +1,18 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing D:\Users\Slackerbot\Documents\Projects\tutorial-scalajs\target\scala-2.13\tutorial-scalajs-fastopt.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 5478 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 2035 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 25166 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: false[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 6055 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 8 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 1679 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 8461 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 3555 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 262 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 4429 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate classes: 2050 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 204 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 49 -- invalidated: 2[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 95 -- invalidated: 6[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 3693 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 15460 us[0m
