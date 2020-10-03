@@ -105,6 +105,7 @@
           <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/sbt-scalajs/scala_2.12/sbt_1.0/1.2.0/jars/sbt-scalajs.jar!/" />
           <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar!/" />
           <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.1/jimfs-1.1.jar!/" />
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.12/1.0.0/scalajs-env-jsdom-nodejs_2.12-1.0.0.jar!/" />
           <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.12/1.1.1/scalajs-env-nodejs_2.12-1.1.1.jar!/" />
           <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-ir_2.12/1.2.0/scalajs-ir_2.12-1.2.0.jar!/" />
           <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.12/1.1.1/scalajs-js-envs_2.12-1.1.1.jar!/" />

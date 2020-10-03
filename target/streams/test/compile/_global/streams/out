@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Users\Slackerbot\Documents\Projects\tutorial-scalajs\src\test\scala\tutorial\webapp\TutorialTest.scala:3:8: not found: object utest[0m
+[0m[[0m[31merror[0m] [0m[0mimport utest._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Users\Slackerbot\Documents\Projects\tutorial-scalajs\src\test\scala\tutorial\webapp\TutorialTest.scala:11:29: not found: type TestSuite[0m
+[0m[[0m[31merror[0m] [0m[0mobject TutorialTest extends TestSuite {[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Users\Slackerbot\Documents\Projects\tutorial-scalajs\src\test\scala\tutorial\webapp\TutorialTest.scala:16:15: not found: value Tests[0m
+[0m[[0m[31merror[0m] [0m[0m  def tests = Tests {[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Users\Slackerbot\Documents\Projects\tutorial-scalajs\src\test\scala\tutorial\webapp\TutorialTest.scala:17:5: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m    test("HelloWorld") {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

@@ -1,0 +1,22 @@
+[0m[[0m[0minfo[0m] [0m[0mFull optimizing D:\Users\Slackerbot\Documents\Projects\tutorial-scalajs\target\scala-2.13\tutorial-scalajs-opt.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 5422 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 753 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Check IR: 88365 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 106837 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 3777 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 210 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 16789 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 22760 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 2603 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 218 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 3589 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate classes: 11788 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 11706 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 45[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 0 -- invalidated: 95[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 25201 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mClosure: Create trees): 107762 us[0m
+[0m[[0m[0minfo[0m] [0m[0mClosure: 0 error(s), 0 warning(s)[0m
+[0m[[0m[0mdebug[0m] [0m[0mClosure: Compiler pass: 2171494 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mClosure: Write result: 30769 us[0m
